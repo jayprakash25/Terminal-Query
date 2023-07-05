@@ -3,8 +3,8 @@ A command-line tool to query Google directly from the terminal. This open source
 
 # Features
 Query and retrieve responses from Google.<br>
-Easily integrate into your existing Node.js projects.
-Open source and extensible.
+Easily integrate into your existing Node.js projects.<br>
+Open source and extensible.<br>
 
 # Contributing
 Contributions are welcome! If you encounter any bugs, have feature requests, or would like to contribute code, please feel free to submit a pull request. Make sure to follow the existing coding style and add appropriate tests.
