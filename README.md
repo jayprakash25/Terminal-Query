@@ -9,6 +9,5 @@ Open source and extensible.<br>
 # Contributing
 Contributions are welcome! If you encounter any bugs, have feature requests, or would like to contribute code, please feel free to submit a pull request. Make sure to follow the existing coding style and add appropriate tests.
 
-# Contributing
 This project is licensed under the MIT License.
 
